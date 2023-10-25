@@ -56,3 +56,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
 
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
+
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
