@@ -55,9 +55,5 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokeunPark&langs_count=6&hide=jupyter%20notebook,roff">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
