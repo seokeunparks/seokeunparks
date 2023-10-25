@@ -54,6 +54,3 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seokeunPark">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seokeunPark" height="165">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
-
